@@ -2,9 +2,9 @@
 const express = require("express");
 const fs = require("fs/promises");
 const bodyParser = require("body-parser");
-
-const app = express();
 const port = process.env.PORT || 3001;
+const app = express();
+
 
 
 app.get("/", (req, res) => res.type('html').send(html));
