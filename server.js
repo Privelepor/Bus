@@ -9,7 +9,7 @@ const app = express();
 
 app.get("/", (req, res) => res.type('html').send(html));
 
-const server = app.listen(3001, () => console.log(`Example app listening on port ${port}!`));
+const server = app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
 app.use(bodyParser.json());
 app.use(express.static("public"));
@@ -50,6 +50,6 @@ app.post("/api/delete", async (req, res) => {
   }
 });
 
-app.listen(PORT, () => {
-  console.log(`Server is running on http://localhost:${PORT}`);
+app.listen(port, () => {
+  console.log(`Server is running on http://localhost:${port}`);
 });
