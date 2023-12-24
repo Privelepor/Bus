@@ -4,13 +4,12 @@ const fs = require("fs/promises");
 const bodyParser = require("body-parser");
 
 const app = express();
-const port = process.env.PORT || 3001; // Use the dynamic port provided by Netlify
+const port = process.env.PORT || 3001;
 
-// Your other Express configurations and routes
 
-app.listen(port, () => {
-  console.log(`Server is running on port ${port}`);
-});
+app.get("/", (req, res) => res.type('html').send(html));
+
+const server = app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
 app.use(bodyParser.json());
 app.use(express.static("public"));
