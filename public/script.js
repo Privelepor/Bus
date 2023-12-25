@@ -27,7 +27,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <td contenteditable="true">${item.time}</td>
           <td contenteditable="true">${item.returnTime}</td>
           <td>
-          <image href="tel:${item.contact}" src="https://static-00.iconduck.com/assets.00/telephone-icon-2048x2048-whonq8z4.png" width="20px" height="20px"/>
+          <a href="tel:${item.contact}"><image src="https://static-00.iconduck.com/assets.00/telephone-icon-2048x2048-whonq8z4.png" width="20px" height="20px"/></a>
             <button class="edit-btn">Edit</button>
             <button class="delete-btn">Delete</button>
           </td>
