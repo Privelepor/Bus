@@ -7,8 +7,6 @@ const app = express();
 
 
 
-app.get("/", (req, res) => res.type('html').send(html));
-
 //const server = app.listen(port, () => console.log(`Example app listening on port ${port}!`));
 
 app.use(bodyParser.json());
