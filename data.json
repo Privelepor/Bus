@@ -13,11 +13,5 @@
     "time": "12:00 PM",
     "returnTime": "8:00 PM"
   },
-  {
-    "id": 1,
-    "busname": "Bus A",
-    "contact": "123-456-7890",
-    "time": "10:00 AM",
-    "returnTime": "5:00 PM"
-  }
+  
 ]
