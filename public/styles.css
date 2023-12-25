@@ -1,7 +1,7 @@
 /* public/styles.css */
 html {
-    height: 100%;
-    width: 100%;
+    height: 1000px;
+    width: 1000px;
     background-image: linear-gradient(135deg, rgb(14, 182, 233), rgb(7, 214, 135));
     background-repeat: no-repeat;
 }
@@ -18,7 +18,7 @@ h1 {
 }
 
 table {
-    width: 100%;
+    width: 90%;
     border-collapse: collapse;
     margin-top: 20px;
 }
