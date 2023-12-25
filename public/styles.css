@@ -1,7 +1,5 @@
 /* public/styles.css */
 html {
-    height: 1000px;
-    width: 1000px;
     background-image: linear-gradient(135deg, rgb(14, 182, 233), rgb(7, 214, 135));
     background-repeat: no-repeat;
 }
