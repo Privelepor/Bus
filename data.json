@@ -12,5 +12,60 @@
     "contact": "+919826630208",
     "time": "7:10 AM",
     "returnTime": "12:30 PM"
-  } 
+  },
+  {
+    "id": 3,
+    "busname": "M P Travels",
+    "contact": "+8770151689",
+    "time": "7:30 AM",
+    "returnTime": "02:15 PM"
+  },
+  {
+    "id": 4,
+    "busname": "Gupta(Akram)",
+    "contact": "+919926531662",
+    "time": " ",
+    "returnTime": " "
+  },
+  
+  {
+    "id": 5,
+    "busname": "MurliRaj",
+    "contact": "",
+    "time": "",
+    "returnTime": "3:30"
+  },
+  {
+    "id": 6,
+    "busname": "Gupta(Rajendra)",
+    "contact": "+918319608425",
+    "time": "12:30",
+    "returnTime": "6:45"
+  },
+  {
+    "id": 7,
+    "busname": "Gour",
+    "contact": " ",
+    "time": " ",
+    "returnTime": " "
+  },
+  {
+    "id": 8,
+    "busname": "Gour",
+    "contact": " ",
+    "time": " ",
+    "returnTime": " "
+  },{
+    "id": 9,
+    "busname": "Gour",
+    "contact": " ",
+    "time": " ",
+    "returnTime": " "
+  },{
+    "id": 10,
+    "busname": "Gour",
+    "contact": " ",
+    "time": " ",
+    "returnTime": " "
+  },
 ]
