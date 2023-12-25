@@ -22,12 +22,11 @@
   },
   {
     "id": 4,
-    "busname": "Gupta(Akram)",
-    "contact": "+919926531662",
-    "time": "Cond",
-    "returnTime": "uctor "
+    "busname": "Ma Ashapura Travels",
+    "contact": "+919425077849",
+    "time": "07:45 AM",
+    "returnTime": "12:30 PM"
   },
-  
   {
     "id": 5,
     "busname": "MurliRaj",
@@ -44,10 +43,10 @@
   },
   {
     "id": 7,
-    "busname": "Gour",
-    "contact": " ",
-    "time": " ",
-    "returnTime": " "
+    "busname": "Gupta(Akram)",
+    "contact": "+919926531662",
+    "time": "Cond",
+    "returnTime": "uctor "
   },
   {
     "id": 8,
@@ -65,13 +64,6 @@
     "id": 10,
     "busname": "Gour",
     "contact": " ",
-    "time": " ",
-    "returnTime": " "
-  },
-  {
-    "id": 11,
-    "busname": "Ma Ashapura Travels",
-    "contact": "+919425077849",
     "time": " ",
     "returnTime": " "
   }
