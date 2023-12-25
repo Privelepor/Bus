@@ -31,9 +31,9 @@
   {
     "id": 5,
     "busname": "MurliRaj",
-    "contact": "",
-    "time": "",
-    "returnTime": "3:30"
+    "contact": "+919926056084",
+    "time": "08:30",
+    "returnTime": "3:15"
   },
   {
     "id": 6,
@@ -65,6 +65,13 @@
     "id": 10,
     "busname": "Gour",
     "contact": " ",
+    "time": " ",
+    "returnTime": " "
+  },
+  {
+    "id": 11,
+    "busname": "Ma Ashapura Travels",
+    "contact": "+919425077849",
     "time": " ",
     "returnTime": " "
   }
